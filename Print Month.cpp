@@ -1,4 +1,4 @@
-// Print Calendar.
+// Print Month.
 #include <iostream>
 
 using namespace std;
