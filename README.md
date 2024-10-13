@@ -1,6 +1,5 @@
 # Storage
-Some programs that I made it before. For record.
-Still uploading. 
+Some programs that I made before. For my record.
 
 # Print Month (Print Month.cpp)
 A code practice using C++ to print the calendar.
